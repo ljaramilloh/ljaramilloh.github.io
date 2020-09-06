@@ -1,5 +1,3 @@
-# ljaramilloh.github.io
-
 <html lang="en">
 <head>
     <!-- Required meta tags -->
