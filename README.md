@@ -70,7 +70,7 @@
     </div>
 </div>
 
-</header>
+
   <hr>
     <nav1 style="border:1px solid Gainsboro; border-width:2px;">
       <p class="seltext">Ciudad:</p>
